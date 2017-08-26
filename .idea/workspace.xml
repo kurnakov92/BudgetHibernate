@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42fe26c3-7e9b-4574-b09e-1e26d3f0967e" name="Default" comment="second commit">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="42fe26c3-7e9b-4574-b09e-1e26d3f0967e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/training/budget/consoleRunners/IncomeRunner.java" afterPath="$PROJECT_DIR$/src/main/java/training/budget/consoleRunners/IncomeRunner.java" />
     </list>
@@ -58,7 +57,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/training/budget/consoleRunners/IncomeRunner.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="122">
-              <caret line="33" column="46" lean-forward="false" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
+              <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -401,12 +400,20 @@
       <workItem from="1503663492273" duration="9056000" />
       <workItem from="1503686547822" duration="3890000" />
       <workItem from="1503703901678" duration="2937000" />
-      <workItem from="1503707028718" duration="143000" />
+      <workItem from="1503707028718" duration="191000" />
     </task>
+    <task id="LOCAL-00001" summary="second commit">
+      <created>1503707181413</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1503707181413</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16026000" />
+    <option name="totallyTimeSpent" value="16074000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -692,7 +699,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/training/budget/consoleRunners/IncomeRunner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="122">
-          <caret line="33" column="46" lean-forward="false" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
+          <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
