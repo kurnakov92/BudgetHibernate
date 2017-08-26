@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="42fe26c3-7e9b-4574-b09e-1e26d3f0967e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/training/budget/consoleRunners/IncomeRunner.java" afterPath="$PROJECT_DIR$/src/main/java/training/budget/consoleRunners/IncomeRunner.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -400,7 +399,7 @@
       <workItem from="1503663492273" duration="9056000" />
       <workItem from="1503686547822" duration="3890000" />
       <workItem from="1503703901678" duration="2937000" />
-      <workItem from="1503707028718" duration="191000" />
+      <workItem from="1503707028718" duration="282000" />
     </task>
     <task id="LOCAL-00001" summary="second commit">
       <created>1503707181413</created>
@@ -409,11 +408,18 @@
       <option name="project" value="LOCAL" />
       <updated>1503707181413</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="third commit">
+      <created>1503707297682</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1503707297682</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16074000" />
+    <option name="totallyTimeSpent" value="16165000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -461,7 +467,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="second commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
+    <MESSAGE value="third commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="third commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
